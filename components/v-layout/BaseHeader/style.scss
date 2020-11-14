@@ -1,6 +1,6 @@
 .header {
     box-shadow: 0 2px 12px 0 rgba(0,0,0,.1);
-    background-color: #fff;
+    background-color: #ffffff;
 }
 
 .logo {
@@ -12,8 +12,17 @@
   font-weight: 600;
   font-family: 'Open Sans', sans-serif;
   font-size: 30px;
+  color: dimgray;
+  margin-right: 30px;
 }
 
 .user-dropdown {
   color: #000;
+}
+.menu{
+  width: calc(100% - 20px);
+  background-color: #f8f8f8;
+  border: none;
+}
+.menu-item {
 }
